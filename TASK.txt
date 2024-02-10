@@ -1,0 +1,24 @@
+1. Stwórz klasę Ksiazka, która będzie reprezentować informacje o książkach w księgarni.
+Książka powinna mieć co najmniej takie dane jak tytuł, autor, rok wydania, cena, ilość dostępnych egzemplarzy itp.
+
+2. Zaimplementuj klasę Kategoria reprezentującą kategorie książek (np. powieść, fantastyka, naukowa).
+Kategoria powinna zawierać informacje o nazwie i ewentualnie dodatkowych parametrach.
+
+3. Utwórz klasę Ksiegarnia, która będzie zarządzała książkami.
+Ksiegarnia powinna przechowywać listę dostępnych książek, kategorie oraz informacje o klientach.
+
+4. Dodaj funkcjonalności do dodawania, usuwania i edytowania książek w systemie.
+
+5. Stwórz funkcję, która umożliwia dodawanie nowych kategorii do systemu.
+
+6. Zaimplementuj mechanizm rezerwacji i sprzedaży książek.
+Klient powinien mieć unikalny identyfikator, a w przypadku sprzedaży powinien zostać zaktualizowany stan dostępności danej książki.
+
+7. Dodaj funkcję generowania raportu, który zawiera informacje o dostępnych książkach, ilości egzemplarzy, sprzedanych egzemplarzach itp.
+
+8. Stwórz prosty interfejs użytkownika (konsolowy lub okienkowy) umożliwiający obsługę systemu,
+takie jak dodawanie książek, rezerwacje, sprzedaż itp.
+
+9. Zadbaj o obsługę błędów i walidację danych, aby system działał niezawodnie.
+
+10. (Opcjonalnie) Rozważ implementację prostego systemu kont użytkowników, aby różne osoby miały różne poziomy dostępu do funkcji systemu.
